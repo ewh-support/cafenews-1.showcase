@@ -236,10 +236,10 @@ usage:
   padding-left: 52px;
 }
 .td-old-fashioned .td-post-template-2 .td-post-sharing a {
-  position: relative;
-  background-color: #f1f0ee;
-  color: #000;
-  transform: translateZ(0);
+  position: relative !important;
+  background-color: #f1f0ee !important;
+  color: #000 !important;
+  transform: translateZ(0) !important;
   -webkit-transform: translateZ(0);
   -moz-transform: translateZ(0);
   -ms-transform: translateZ(0);
